@@ -1,0 +1,20 @@
+.retangulo{
+    text-align: center;
+    background-color: red;
+    width: 30%;
+    height: 170px;
+    margin-left: 480px;
+    border-radius: 10px;
+}
+
+.centro{
+    text-align: center;
+}
+
+input[type=select]{
+    background-color: black;
+}
+
+.center{
+    border-left: 100px;
+}
